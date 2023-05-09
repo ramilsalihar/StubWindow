@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150344300975",
+    "project_id": "stubwin-df617",
+    "storage_bucket": "stubwin-df617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150344300975:android:df26a6a93965f3ea4fd75a",
+        "android_client_info": {
+          "package_name": "com.example.stub_window"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150344300975-5d7afo25i90cgcur7ko34lr0pqscj9hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW9lE0UpacaWhVi0vGSOgD_UIDqsh8nSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150344300975-5d7afo25i90cgcur7ko34lr0pqscj9hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
